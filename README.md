@@ -12,7 +12,7 @@ Now that you have your own fork, look at the top of this page.  You should see a
 
 Now, clone your fork (note: make sure not to clone the original, but your own fork!) to your local machine.
 
-As you work through the exercises, each time you complete an exercise or function, make a commit.  Use the `--author` flag or set the `.gitconfig` so that the commits show up under the right name!  Run `git log` after your first commit to make sure it's under the right name.
+As you work through the exercises, each time you complete an exercise or function, make a commit.  Use the `--author` flag or edit the `~/.gitconfig` file to have your name and email so that the commits show up under the right name!  Run `git log` after your first commit to make sure it's under the right name.  You can also run the two `git config` commands as described here: https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#Your-Identity
 
 # File I/O exercises
 
