@@ -6,7 +6,7 @@ Use the Python interpreter to confirm your answers as you go.  After writing eac
 
 Use the following list for the questions:
 
-`my_list = [1, 2, “kitten”,  4, “five”]`
+`my_list = [1, 2, "kitten",  4, "five"]`
 
 *Note that the little quote marks you see around this line when editing make it look like code on the original page!  Use them for your answers when the answer is code.*
 
